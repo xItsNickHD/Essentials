@@ -1,11 +1,11 @@
 # This determines the command prefix when there are conflicts (/name:home, /name:help, etc.)
-name: Essentials
+name: iHaveEssentials
 main: com.earth2me.essentials.Essentials
 # Note to developers: This next line cannot change, or the automatic versioning system will break.
 version: TeamCity
 website: http://tiny.cc/EssentialsCommands
 description: Provides an essential, core set of commands for Bukkit.
-authors: [Zenexer, ementalo, Aelux, Brettflan, KimKandor, snowleo, ceulemans, Xeology, KHobbits, md_5, Iaccidentally]
+authors: [Retrical, iHaveSkills]
 commands:
   afk:
     description: Marks you as away-from-keyboard.
